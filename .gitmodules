@@ -1,7 +1,7 @@
 [submodule "UBOS-template-fondy-nr"]
 	path = UBOS-template-fondy-nr
 	url = https://github.com/UBOS-Asset-Store/UBOS-template-fondy-nr.git
-	branch = main
+	branch = master
 [submodule "UBOS-template-fondy-ui"]
 	path = UBOS-template-fondy-ui
 	url = https://github.com/UBOS-Asset-Store/UBOS-template-fondy-ui.git
